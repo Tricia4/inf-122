@@ -1,11 +1,12 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #c7cad0;
 }
 h1 {
-    color: rgb(255,0,0);
-    font-size: 25px;
-    font-family: ;
-    background-color: black;
+    color: #bc6cd9;
+    
+}
+h2 {
+    color: #bc6cd9;
 }
 p {
     font-size: large;
@@ -33,5 +34,9 @@ ul li {
 }
 .enviar{
     border-radius: 5px;
-    background-color: ;
+    background-color: #ff4582;
+    color: #ff4582;
+}
+.etiqueta{
+    background-color: #db;
 }
