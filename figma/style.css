@@ -1,13 +1,44 @@
-:root{
-    --white: #FFFFFF;
-    --black: #000000;
-    --purple: #6F2CFF;
-    --light-purple: #EFE9F9;
-    --red-hearts: #A50954;
-    --blue-hearts
+/*
+Selectores de tipo
+*/
+div {
+    background: pink;
+}
 
+/*
+Selectores de clase
+*/
+
+.enlace {
+    color: blueviolet
 }
-body{
-    font-family:"Nunito":
-    margin:0;
-}
+
+/*
+Selectores de id
+*/
+
+
+/*
+Selectores de atributo
+*/
+
+/*
+Selectores combinadores descendientes
+*/
+
+/*
+Selectores combinadores de hijo directo
+*/
+
+
+/*
+Selectores combinadores de hijo directo
+*/
+
+/*
+Selectores combinadores de elemento adyacente
+*/
+
+/*
+Selectores combinadores general de hermanos
+*/
