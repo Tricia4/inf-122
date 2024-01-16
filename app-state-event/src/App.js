@@ -5,8 +5,10 @@ import { useState } from 'react';
 
 function App() {
   const [nroClicks, setNumClicks] = useState(0);
+  const [show, setShow] = usesState(true);
   const click = () => {
     setNumClicks(nroClicks + 1);
+    console.log("click");
   }
   const reiniciar = () => {
     setNumClicks(0);
